@@ -1,0 +1,2 @@
+# bulletin
+bulletin for klasM
